@@ -1,0 +1,8 @@
+Package    Version
+---------- -------
+asarPy     1.0.1
+asgiref    3.8.1
+Django     5.1
+pip        24.2
+setuptools 65.5.0
+sqlparse   0.5.1
